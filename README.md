@@ -20,5 +20,5 @@ VLC原本的视频分组默认是禁用了，我改成了默认按文件夹分�
   
 ### 注：编译vlc-android源码在国内需要使用VPN，然后设置好Androidstudio的代理
 
-## Downloads
+## 下载已编译的apk
  **[VLC-Android-3.3.0-dev-all.apk](https://github.com/xushihai/VLC-Android/raw/master/apk/VLC-Android-3.3.0-dev-all.apk)**
