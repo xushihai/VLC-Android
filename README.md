@@ -19,3 +19,6 @@ VLC原本的显示单纯视频的列表形式的布局不喜欢，文件夹的�
 VLC原本的视频分组默认是禁用了，我改成了默认按文件夹分组
   
 ### 注：编译vlc-android源码在国内需要使用VPN，然后设置好Androidstudio的代理
+
+## Downloads
+ **[universal-image-loader-1.9.5.jar](https://github.com/xushihai/VLC-Android/raw/master/apk/VLC-Android-3.3.0-dev-all.apk)**
