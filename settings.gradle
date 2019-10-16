@@ -1,0 +1,2 @@
+include ':libvlc', ':api', ':medialibrary', ':tools'
+include ':vlc-android'
